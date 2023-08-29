@@ -4,9 +4,9 @@ Welcome to my GitHub! This repository showcases my work as a software developer.
 
 ## Highlights 🚀
 
-- 💼 **Programmer I**: Redesigned and created a government website, developed Salesforce solutions, and created internal Sharepoint sites.
+- 💼 **Programmer I**: Redesigned and created a government websites, developed Salesforce solutions, and created internal Sharepoint sites.
 - 💻 **AWS Cloud Practitioner Student**: Built web applications on AWS with auto-scaling and managed databases on Aurora.
-- 👩‍💻 **Pursuit Fellow**: Collaborated on a virtual closet app, managed SQL databases, and implemented REST APIs.
+- 👩‍💻 **Pursuit Fellow**: Refined skills in project management, SQL database design, REST API integration, and code quality through peer reviews for efficient solutions. Contributed to a one-month capstone project in building a user-friendly virtual closet app. 
 
 <!-- ## Projects 🌟
 
